@@ -1,0 +1,39 @@
+[
+  {"@class":"com.monical.cumulation.dto.wxTpl.UpdateWxTplRelationRequest", "id":5, "pushId":10604, "pageUrl":"pages/star/index?id=", "tplId":"tuZ_iKqFm4CBMacL1Q3-kbE1efJOJSFhNNT6_ospmhI"},
+  {"@class":"com.monical.cumulation.dto.wxTpl.UpdateWxTplRelationRequest","id":6, "pushId":10605, "pageUrl":"pages/star/index?id=","tplId":"PNI48-YQmvUuUiOQGCdjLYA91g74cQtDZuPBsQ10yq8"},
+  {"@class":"com.monical.cumulation.dto.wxTpl.UpdateWxTplRelationRequest","id":7, "pushId":10606, "pageUrl":"pages/activity/detail?id=","tplId":"HdN5znfaqLz1YWnt8osOO2MSM7ucZUazGK_nE7LUfI4"},
+  {"@class":"com.monical.cumulation.dto.wxTpl.UpdateWxTplRelationRequest","id":8, "pushId":10607, "pageUrl":"pages/activity/detail?id=","tplId":"EbezxRg2okkgkR_xxi-G-6dkqASa89fiVisJsYvVaGs"},
+  {"@class":"com.monical.cumulation.dto.wxTpl.UpdateWxTplRelationRequest","id":9, "pushId":10654, "pageUrl":"pages/project/index?id=","tplId":"pIpiBH5gkkZorFskffB0RpnNPo6s_QhQxI44TAgDezw"},
+
+  {
+    "type":1,
+    "tid":10918,
+    "kidList":"[1,2,3,4]",
+    "creator": "anyone",
+    "sceneDesc": "行程提醒"
+  },
+
+  {
+    "type":2,
+    "tid":10919,
+    "kidList":"[1,2,4]",
+    "creator": "anyone",
+    "sceneDesc": "行程取消原因"
+  },
+
+  {
+    "type":4,
+    "tid":386,
+    "kidList":"[1,9,11]",
+    "creator": "anyone",
+    "sceneDesc": "活动报名开始提醒"
+  },
+
+  {
+    "type":5,
+    "tid":2076,
+    "kidList":"[3,1,6]",
+    "creator": "anyone",
+    "sceneDesc": "报名结果通知"
+  }
+]
